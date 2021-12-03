@@ -1,0 +1,1 @@
+o git serve para fazer o controle de versão do código. Com isso, podemos usa-lo para fazer modificações, exclusões, retornos a códigos antigos etc. As possibilidades são muitas
