@@ -1,0 +1,3 @@
+para instalar é só rodar o comando sudo apt-get install git-all
+e para configurar é só rodar o comando git config --global user.name "seu nome"
+git config --global user.email "seuemail@contato.com"
