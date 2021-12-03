@@ -1,0 +1,1 @@
+para isso preciso do comando git remote add origin https://zzzzzz para então conectar a minha máquina ao github, posteriormente permitindo que envie o arquivo para o github 
