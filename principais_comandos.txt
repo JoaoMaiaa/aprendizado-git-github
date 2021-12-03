@@ -1,0 +1,7 @@
+o primeiro e o principal é o git init porque inicia todo o projeto
+o segundo é o git clone onde nós clonamos o repositorio externo.
+o terceiro é o git add onde adicionamos os aqrvios modificados no staged
+o quarto é o commit para comentar o que o arquivo faz
+o quinto é o git remote add origin https://zzzzzzz porque ele linka o github a nossa máquina
+por último é o gut push origin master onde manda para o github o nosso código
+existem outros mas por hora é isso
