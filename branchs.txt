@@ -1,0 +1,1 @@
+branchs são ramos que permitem que riemos códigos de forma "paralela" o que permite evitar conflito com projeto principal e também permite com que criemos o código de forma mais segura caso de errado, com isso evitando conflito com projeto principal
